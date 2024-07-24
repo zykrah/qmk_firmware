@@ -1,8 +1,8 @@
 # SABRE
 
-![IMAGE PENDING]()
+![TEMPORARY](https://i.imgur.com/DA1ruvuh.jpeg)
 
-Description pending
+Replacement PCB designed based on the Original Sabre PCB. Designed for Cafege.
 
 * Keyboard Maintainer: [Zykrah](https://github.com/zykrah)
 * Hardware Supported: Sabre PCB by Zykrah
