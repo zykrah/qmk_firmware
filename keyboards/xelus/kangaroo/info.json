@@ -6,6 +6,9 @@
         "vid": "0x5845",
         "pid": "0x524F"
     },
+    "dynamic_keymap": {
+        "layer_count": 4
+    },
     "layout_aliases": {
         "LAYOUT_all": "LAYOUT_ansi_split_bs_rshift"
     },
